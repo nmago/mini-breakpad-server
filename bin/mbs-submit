@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+
+require(__dirname + '/../mbs-submit/lib/app.js')
